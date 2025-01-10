@@ -5,6 +5,9 @@
 npm install
 ```
 
+## Setting Environment
+open file .env and change API_URL
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
