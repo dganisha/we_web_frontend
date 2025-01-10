@@ -1,4 +1,7 @@
-# fe_we
+# Frontend for Windows Explorer
+
+## Details
+Using Vue.js
 
 ## Project setup
 ```
